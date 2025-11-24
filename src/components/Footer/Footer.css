@@ -12,7 +12,7 @@
 
 .footer-icons img{
     width: 30px;
-    cursor: pointer;
+    cursor: not-allowed;
 }
 
 .footer ul{
@@ -21,6 +21,7 @@
     gap: 15px;
     margin-bottom: 30px;
     list-style: none;
+    cursor: not-allowed;
 }
 
 .copyright-text{

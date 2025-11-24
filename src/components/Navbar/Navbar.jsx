@@ -39,7 +39,7 @@ useEffect(()=> {
       </div>
       <div className="navbar-right">
         <img src={search__icon} alt="" className='icons' />
-        <p>Children</p>
+        <p className='nav-para'>Children</p>
         <img src={bell__icon} alt="" className='icons' />
         <div className="navbar-profile">
             <img src={profile__img} alt="" className='profile' />
